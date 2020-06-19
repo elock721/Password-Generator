@@ -43,7 +43,7 @@ function generatePassword() {
   }
 
   //ensures clear array to begin
-  charaterChoices = [];
+  characterChoices = [];
   // these prompts allow user select what specific password criteria they want
   upperConfirm = window.confirm("Would you like to include Uppercase Letters?");
 
