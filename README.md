@@ -1,6 +1,6 @@
 # Password-Generator
 
-Overview:
+## Description 
 
 This password generator is comprised of three different languages each complete on their own page - HTML, CSS(complete with media queries), and JavaScript
 
@@ -13,22 +13,23 @@ Then the following options include Uppercase letters, Lowercase letters, Numbers
 
 Once all the prompts are answered, the password will be displayed just above the generate button in a nice, clean text box
 
---------------------------------------------------
+## Technologies
 
-Javascript Psuedo Code:
+* HTML 
+* CSS
+* Javascript
 
-HTML correspondents 
+## Links
 
-All variables and arrays listed after
+Github Repo: https://github.com/elock721/Password-Generator
 
-Event listener for the generate button will then prompt the user
-for all necessary password criteria 
+Github Pages: https://elock721.github.io/Password-Generator/
 
-Alert and Return if password criteria not properly met
+## Screenshots
 
-4 IF statements pushing necessary arrays based on criteria to randomizing for loop
+![Alt text](images/password.png "Main")
 
-Password returned 
+
 
 
 
